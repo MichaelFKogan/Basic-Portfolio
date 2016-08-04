@@ -1,0 +1,1 @@
+<?php require ("index.htm", "contact.html", "portfolio.html"); ?> 
