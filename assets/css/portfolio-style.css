@@ -109,15 +109,15 @@ a {
 	float: left;
 }
 
-#main-bio{
-	background:white;
-	clear:both;
-	width:607px;
-	height:500px;
-	padding:20px;
-	margin:40px 20px 40px 0px;
-	border:1px solid #dddddd;
-}
+
+
+
+
+
+
+
+
+
 
 #paraContainer{
 	border-top: 1px solid #dddddd;
@@ -175,8 +175,90 @@ input {
 	margin-bottom: 10px;
 }
 
+/* CSS FOR CONTACT PAGE */
+
+#imagesContainer{
+	border-top: 1px solid #dddddd;
+	padding:30px 0px 20px 0;
+	position:relative;
+}
+
+#portImageL{
+	border:1px solid gray;
+	float:left;
+	margin: 0px 20px 20px 0px;
+	width:280px;
+	height:150px;
+}
+
+#portImageR{
+	border:1px solid gray;
+	float:left;
+	margin: 0px 0px 40px 20px;
+	width:280px;
+	height:150px;
+}
+
+#main-bio{
+	background:white;
+	clear:both;
+	width:607px;
+	height:660px;
+	padding:20px;
+	margin:40px 20px 40px 0px;
+	border:1px solid #dddddd;
+}
 
 
+#image1, #image2,
+#image3, #image4,
+#image5, #image6 {
+	
+	position:absolute;
+	
+	height:20px;
+	background:#4aaaa5;
+	color:white;
+
+	width:280px;
+	height:40px;
+	text-align: center;
+	padding-top: 12px;
+	
+	border-left:1px solid gray;
+	border-right:1px solid gray;
+}
+
+#image1{
+	
+	top:120px;
+	
+}
+	
+
+#image2{
+	top:120px;
+	left:322px;
+}
+
+#image3{
+	top:311px;
+
+}
+
+#image4{
+	top:311px;
+	left:322px;
+}
+
+#image5{
+	top:503px;
+}
+
+#image6{
+	left:322px;
+	top:503px;
+}
 
 
 
