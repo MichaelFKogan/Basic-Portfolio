@@ -1,1 +1,1 @@
-<?php require ("index.htm", "contact.html", "portfolio.html"); ?> 
+<?php require ("index.html", "contact.html", "portfolio.html"); ?> 
